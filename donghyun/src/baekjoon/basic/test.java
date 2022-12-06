@@ -1,4 +1,4 @@
-package Baekjoon;
+package baekjoon.basic;
 
 import java.util.Arrays;
 import java.util.HashSet;
