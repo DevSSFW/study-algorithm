@@ -20,7 +20,7 @@ public class B_1546 {
 		}
 		
 		Arrays.sort(array);
-		int sum = 0;
+		double sum = 0;
 		
 		for(int i = 0; i < array.length; i++) {
 			sum += ((array[i] / array[array.length - 1]) * 100);
