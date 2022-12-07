@@ -11,6 +11,7 @@
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%9D%BC%EA%B3%B1_%EB%82%9C%EC%9F%81%EC%9D%B4.java) |
+| 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%82%AC%ED%83%95_%EA%B2%8C%EC%9E%84.java) |
 | | []() | []() |
 
 ## 상윤
