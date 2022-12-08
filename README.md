@@ -20,3 +20,10 @@
 | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_3052.java) |
 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1546.java) |
 | | []() | []() |
+
+## 경찬
+| 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: |
+| 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%98%EB%88%84%EA%B8%B0.java) |
+| 138477 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AA%85%EC%98%88%EC%9D%98_%EC%A0%84%EB%8B%B9.java) |
+| | []() | []() |
