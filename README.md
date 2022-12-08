@@ -15,12 +15,12 @@
 | | []() | []() |
 
 ## 상윤
-| 문제 | 문제 제목 | 정답 코드 |
-| :--: | :--: | :--: |
-| 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_3052.java) |
-| 1546 | [평균](https://www.acmicpc.net/problem/1546) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1546.java) |
-| 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_8958.java) |
-| | []() | []() |
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 백준 | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_3052.java) |
+| 백준 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1546.java) |
+| 백준 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_8958.java) |
+| | | []() | []() |
 
 ## 경찬
 | 문제 | 문제 제목 | 정답 코드 |
