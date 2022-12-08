@@ -8,11 +8,11 @@
 > **각자 푼 문항 번호/제목/정답 코드 정리**
 
 ## 동현
-| 문제 | 문제 제목 | 정답 코드 |
-| :--: | :--: | :--: |
-| 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%9D%BC%EA%B3%B1_%EB%82%9C%EC%9F%81%EC%9D%B4.java) |
-| 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%82%AC%ED%83%95_%EA%B2%8C%EC%9E%84.java) |
-| | []() | []() |
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 백준 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%9D%BC%EA%B3%B1_%EB%82%9C%EC%9F%81%EC%9D%B4.java) |
+| 백준 | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%82%AC%ED%83%95_%EA%B2%8C%EC%9E%84.java) |
+| | | []() | []() |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -23,8 +23,8 @@
 | | | []() | []() |
 
 ## 경찬
-| 문제 | 문제 제목 | 정답 코드 |
-| :--: | :--: | :--: |
-| 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%98%EB%88%84%EA%B8%B0.java) |
-| 138477 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AA%85%EC%98%88%EC%9D%98_%EC%A0%84%EB%8B%B9.java) |
-| | []() | []() |
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 프로그래머스 | 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%98%EB%88%84%EA%B8%B0.java) |
+| 프로그래머스 | 138477 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AA%85%EC%98%88%EC%9D%98_%EC%A0%84%EB%8B%B9.java) |
+| | | []() | []() |
