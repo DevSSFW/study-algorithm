@@ -1,6 +1,9 @@
 package baekjoon.basic.codeup;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Objects;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
@@ -16,7 +19,20 @@ public class Prac {
 
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
+        StringTokenizer st = new StringTokenizer(s, ":");
+        String[] arr = new String[2];
 
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = st.nextToken();
+        }
+        if (Objects.equals(arr[1], "00")) {
+            System.out.println("0");
+        } else {
+            System.out.println(arr[1]);
+        }
+
+
+        /*
         String[] arr1 = s.split("\\.");
         System.out.println(arr1[0] + "\n" + arr1[1]);
 
@@ -24,6 +40,8 @@ public class Prac {
         int x = Integer.parseInt(arr[0]);
         int y = Integer.parseInt(arr[1]);
         System.out.printf("%d\n%d", x, y);
+
+         */
     }
 }
         /*
