@@ -37,4 +37,5 @@
 | 백준 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B11729.cs) |
 | 백준 | 24479 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B24479.cs) |
 | 백준 | 24444 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B24444.cs) |
+| 백준 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B1697.cs) |
 | | | []() | []() |
