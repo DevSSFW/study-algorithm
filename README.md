@@ -20,6 +20,7 @@
 | 백준 | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_3052.java) |
 | 백준 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1546.java) |
 | 백준 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_8958.java) |
+| SWEA | 2071 | [평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=1&pageSize=30&pageIndex=1) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/SWEA/S_2071.java) |
 | | | []() | []() |
 
 ## 경찬
