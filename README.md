@@ -43,4 +43,5 @@
 | 백준 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/BFS%2C%20DFS/B7569.cs) |
 | 백준 | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15651.cs) |
 | 백준 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15650.cs) |
+| 백준 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15652.cs) |
 | | | []() | []() |
