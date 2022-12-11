@@ -12,7 +12,8 @@
 | :--: | :--: | :--: | :--: |
 | 백준 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%9D%BC%EA%B3%B1_%EB%82%9C%EC%9F%81%EC%9D%B4.java) |
 | 백준 | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%82%AC%ED%83%95_%EA%B2%8C%EC%9E%84.java) |
-| | | []() | []() |
+| 백준 | 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%9D%B4%EC%A7%84%EC%88%98.java) |
+| 백준 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
