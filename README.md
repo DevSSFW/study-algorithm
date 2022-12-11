@@ -35,11 +35,12 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 백준 | 10773 | [제로](https://www.acmicpc.net/problem/10773) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B10773.cs) |
-| 백준 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B11729.cs) |
-| 백준 | 24479 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B24479.cs) |
-| 백준 | 24444 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B24444.cs) |
-| 백준 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B1697.cs) |
-| 백준 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B7569.cs) |
-| 백준 | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/B15651.cs) |
+| 백준 | 10773 | [제로](https://www.acmicpc.net/problem/10773) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EC%8A%A4%ED%83%9D/B10773.cs) |
+| 백준 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EC%9E%AC%EA%B7%80/B11729.cs) |
+| 백준 | 24479 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/BFS%2C%20DFS/B24479.cs) |
+| 백준 | 24444 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/BFS%2C%20DFS/B24444.cs) |
+| 백준 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/BFS%2C%20DFS/B1697.cs) |
+| 백준 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/BFS%2C%20DFS/B7569.cs) |
+| 백준 | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15651.cs) |
+| 백준 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15650.cs) |
 | | | []() | []() |
