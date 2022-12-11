@@ -17,7 +17,7 @@ namespace BaekJoon.src
             int[] tokens = Array.ConvertAll(sr.ReadLine().Split(' '), int.Parse);
             int N = tokens[0], M = tokens[1];
             
-            res = new int[N + 1];
+            res = new int[M];
 
             BackTracking(N, M, 0);
 
