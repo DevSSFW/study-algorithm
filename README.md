@@ -30,6 +30,9 @@
 | :--: | :--: | :--: | :--: |
 | 프로그래머스 | 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%98%EB%88%84%EA%B8%B0.java) |
 | 프로그래머스 | 138477 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AA%85%EC%98%88%EC%9D%98_%EC%A0%84%EB%8B%B9.java) |
+| 프로그래머스 | 140108 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B0%99%EC%9D%80_%EA%B8%80%EC%9E%90.java) |
+| 프로그래머스 | 138477 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B3%BC%EC%9D%BC_%EC%9E%A5%EC%88%98.java) |
+| 프로그래머스 | 140108 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%91%B8%EB%93%9C_%ED%8C%8C%EC%9D%B4%ED%8A%B8_%EB%8C%80%ED%9A%8C.java) |
 | | | []() | []() |
 
 ## 윤호
