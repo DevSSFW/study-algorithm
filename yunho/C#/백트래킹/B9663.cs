@@ -47,10 +47,10 @@ namespace BaekJoon.src
                     int c = dx[j] * i + col;
                     int r = dy[j] * i + row;
 
+                    //이미 공격 가능한 칸은 넘긴다.
                     if (c < 0 || c >= n || r < 0 || r >= n || vis[c, r]) continue;
 
                     //지금 배치할 퀸이 공격 가능한 칸을 설정한다.
-                    //이미 공격 가능
                     attack.Add(new int[] { c, r });
                     vis[c, r] = true;
                 }
