@@ -75,4 +75,5 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B9663.cs) |
 | | | []() | []() |
