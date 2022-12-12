@@ -1,11 +1,12 @@
-# study-algorithm
+# 💻 study-algorithm
 코딩테스트 대비 문제 해결 레포지토리
 
 + push 하기 전에 `git pull origin main` 하고 push 하기 - 충돌 방지
 + 추가로 적고 싶은 마크 다운 있으면 작성 바랍니다.
 
 ## 1주차 (22.12.06 - 22.12.12)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 1주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -14,7 +15,7 @@
 | 백준 | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/brute_force/%EC%82%AC%ED%83%95_%EA%B2%8C%EC%9E%84.java) |
 | 백준 | 3460 | [이진수](https://www.acmicpc.net/problem/3460) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%9D%B4%EC%A7%84%EC%88%98.java) |
 | 백준 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.java) |
-| | | []() | []() |
+| 백준 | 2693 | [N번째 큰 수](https://www.acmicpc.net/problem/2693) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/N%EB%B2%88%EC%A7%B8_%ED%81%B0%EC%88%98.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -51,6 +52,7 @@
 | 백준 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15650.cs) |
 | 백준 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15652.cs) |
 | | | []() | []() |
+</details>
 
 ## 2주차 (22.12.13 - 22.12.19)
 > **각자 푼 문항 번호/제목/정답 코드 정리**
