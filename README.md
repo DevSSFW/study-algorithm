@@ -24,6 +24,7 @@
 | SWEA | 2071 | [평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=1&pageSize=30&pageIndex=1) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/SWEA/S_2071.java) |
 | 백준 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_4344.java) |
 | 백준 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_15596.java) |
+| 백준 | 1065 | [한수](https://www.acmicpc.net/problem/1065) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1065.java) |
 | | | []() | []() |
 
 ## 경찬
