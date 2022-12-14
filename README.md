@@ -63,6 +63,7 @@
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11654.java) |
+| 백준 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11720.java) |
 | | | []() | []() |
 
 ## 경찬
