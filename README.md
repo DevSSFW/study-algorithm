@@ -27,7 +27,6 @@
 | 백준 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_4344.java) |
 | 백준 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_15596.java) |
 | 백준 | 1065 | [한수](https://www.acmicpc.net/problem/1065) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1065.java) |
-| | | []() | []() |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -37,7 +36,6 @@
 | 프로그래머스 | 140108 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B0%99%EC%9D%80_%EA%B8%80%EC%9E%90.java) |
 | 프로그래머스 | 138477 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B3%BC%EC%9D%BC_%EC%9E%A5%EC%88%98.java) |
 | 프로그래머스 | 140108 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%91%B8%EB%93%9C_%ED%8C%8C%EC%9D%B4%ED%8A%B8_%EB%8C%80%ED%9A%8C.java) |
-| | | []() | []() |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -51,7 +49,6 @@
 | 백준 | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15651.cs) |
 | 백준 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15650.cs) |
 | 백준 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15652.cs) |
-| | | []() | []() |
 </details>
 
 ## 2주차 (22.12.13 - 22.12.19)
@@ -65,6 +62,8 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11654.java) |
+| 백준 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11720.java) |
 | | | []() | []() |
 
 ## 경찬
@@ -76,4 +75,5 @@
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B9663.cs) |
+| 백준 | 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/B1504Again.java) |
 | | | []() | []() |
