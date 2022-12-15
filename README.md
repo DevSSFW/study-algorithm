@@ -57,6 +57,9 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%ED%8F%89%EA%B7%A0%EC%9D%80_%EB%84%98%EA%B2%A0%EC%A7%80.java) |
+| 백준 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/X%EB%B3%B4%EB%8B%A4_%EC%9E%91%EC%9D%80_%EC%88%98.java) |
+| 백준 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%B5%9C%EB%8C%93%EA%B0%92.java) |
 | | | []() | []() |
 
 ## 상윤
