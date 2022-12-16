@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/**
+ * <p>백준 10871번</p>
+ */
 public class 평균은_넘겠지 {
     public static void main(String[] args) throws IOException {
 

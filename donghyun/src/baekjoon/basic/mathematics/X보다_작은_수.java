@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/**
+ * <p>백준 10871번</p>
+ */
 public class X보다_작은_수 {
     public static void main(String[] args) throws IOException {
 
