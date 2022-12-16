@@ -67,6 +67,8 @@
 | :--: | :--: | :--: | :--: |
 | 백준 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11654.java) |
 | 백준 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11720.java) |
+| 백준 | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10809.java) |
+| 백준 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2675.java) |
 | | | []() | []() |
 
 ## 경찬
