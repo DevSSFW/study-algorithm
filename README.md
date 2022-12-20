@@ -103,6 +103,7 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1152.java) |
 | | | []() | []() |
 
 ## 경찬
