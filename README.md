@@ -52,7 +52,8 @@
 </details>
 
 ## 2주차 (22.12.13 - 22.12.19)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 2주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -62,7 +63,6 @@
 | 백준 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%B5%9C%EB%8C%93%EA%B0%92.java) |
 | 백준 | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EB%8C%80%ED%91%9C%EA%B0%922.java) |
 | 백준 | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%ED%95%B8%EB%93%9C%ED%8F%B0_%EC%9A%94%EA%B8%88.java) |
-| | | []() | []() |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -72,7 +72,6 @@
 | 백준 | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10809.java) |
 | 백준 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2675.java) |
 | 백준 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1157.java) |
-| | | []() | []() |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -82,7 +81,6 @@
 | 프로그래머스 | 132267 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%BD%9C%EB%9D%BC_%EB%AC%B8%EC%A0%9C.java) |
 | 프로그래머스 | 131705 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%82%BC%EC%B4%9D%EC%82%AC.java) |
 | 프로그래머스 | 131128 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%88%AB%EC%9E%90_%EC%A7%9D%EA%BF%8D.java) |
-| | | []() | []() |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -92,4 +90,27 @@
 | 백준 | 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/%EB%B9%A0%EB%A5%B8%20%EC%9E%85%EC%B6%9C%EB%A0%A5/B2741.cs) |
 | 백준 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/B1520.cs) |
 | 백준 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/B12865.cs) |
+</details>
+
+## 3주차 (22.12.20 - 22.12.26)
+> **각자 푼 문항 번호/제목/정답 코드 정리**
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
 | | | []() | []() |
