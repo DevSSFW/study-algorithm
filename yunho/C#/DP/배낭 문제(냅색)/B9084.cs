@@ -10,9 +10,6 @@ namespace BaekJoon.src
         StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
         StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
 
-        //dp[0]은 1로 초기화, 초기값
-        //j : 현재 확인하고 있는 금액, coins[i] : 선택한 동전
-        //dp[j] += dp[j - coins[i]]만 해주면 된다.
         public B9084()
         {
             StringBuilder sb = new StringBuilder();
@@ -28,15 +25,13 @@ namespace BaekJoon.src
                 for(int i = 0; i < N; i++) coins[i] = tokens[i];
                 
                 int M = int.Parse(sr.ReadLine());
-                int[] dp = new int[M + 1];
-                dp[0] = 1;
+                int[] dp = new int[10001]; //입력될 수 있는 최대 값을 크기로 지정
 
-                for(int i = 0; i < N; i++)
+                for (int i = 0; i < N; i++)
                 {
-                    for(int j = 1; j <= M; j++)
-                    {
-                        if (j - coins[i] >= 0) dp[j] += dp[j - coins[i]];
-                    }
+                    dp[coins[i]]++; //동전이 최대 10000이기 때문에 오버플로우가 일어나지 않는다.
+                    for(int j = coins[i]; j <= M; j++) dp[j] += dp[j - coins[i]];
+                    
                 }
 
                 sb.Append(dp[M] + "\n");
