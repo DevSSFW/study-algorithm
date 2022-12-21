@@ -43,6 +43,7 @@ namespace BaekJoon.src
             }
 
             Console.WriteLine(sb);
+            Close_Stream();
         }
 
         public void Close_Stream()
