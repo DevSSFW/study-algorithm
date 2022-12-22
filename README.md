@@ -98,6 +98,7 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%88%AB%EC%9E%90%EC%9D%98_%EA%B0%9C%EC%88%98.java) |
 | | | []() | []() |
 
 ## 상윤
