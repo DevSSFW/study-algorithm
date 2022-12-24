@@ -105,6 +105,10 @@
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1152.java) |
+| 백준 | 2908 | [상수](https://www.acmicpc.net/problem/2908) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2908.java) |
+| 백준 | 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_5622.java) |
+| 백준 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2941.java) |
+| 백준 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1316.java) |
 | | | []() | []() |
 
 ## 경찬
