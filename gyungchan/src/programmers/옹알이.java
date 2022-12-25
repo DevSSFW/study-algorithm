@@ -9,40 +9,19 @@ public class 옹알이 {
 
     public static int solution(String[] babbling) {
         int answer = 0;
-        for (String x : babbling) {
-            if (x.equals("aya") || x.equals("ye")
-                    || x.equals("woo") || x.equals("ma")) {
-                answer++;
+        for (int i = 0; i < babbling.length; i++) {
+            if (babbling[i].contains("ayaaya") || babbling[i].contains("yeye") ||
+                    babbling[i].contains("woowoo") || babbling[i].contains("mama")) {
+                continue;
             }
-            else {
-                String tmp = x;
-                String check = "";
-                boolean bool = true;
-                while (bool) {
-                    char c = tmp.charAt(0);
-                    int check_length = check.length();
-                    switch (c) {
-                        case 'a':
-                            check += "aya";
-                            break;
-                        case 'y':
-                            check += "ye";
-                            break;
-                        case 'w':
-                            check += "woo";
-                            break;
-                        case 'm':
-                            check += "ma";
-                            break;
-                        default:
-                            bool = false;
-                            break;
-                    }
-                    if (check.length() >= x.length()) break;
-                    tmp = tmp.substring(check.length() - check_length);
-                    if (c == tmp.charAt(0)) break;
-                }
-                if (check.equals(x)) answer++;
+            babbling[i] = babbling[i].replace("aya", " ");
+            babbling[i] = babbling[i].replace("ye", " ");
+            babbling[i] = babbling[i].replace("woo", " ");
+            babbling[i] = babbling[i].replace("ma", " ");
+            babbling[i] = babbling[i].replace(" ", "");
+
+            if (babbling[i].length() == 0) {
+                answer++;
             }
         }
 

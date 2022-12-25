@@ -98,12 +98,17 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%88%AB%EC%9E%90%EC%9D%98_%EA%B0%9C%EC%88%98.java) |
 | | | []() | []() |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1152.java) |
+| 백준 | 2908 | [상수](https://www.acmicpc.net/problem/2908) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2908.java) |
+| 백준 | 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_5622.java) |
+| 백준 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2941.java) |
+| 백준 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1316.java) |
 | | | []() | []() |
 
 ## 경찬
@@ -114,4 +119,10 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B9084.cs) |
+| 백준 | 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2629.cs) |
+| 백준 | 17626 | [Four Squares](https://www.acmicpc.net/problem/17626) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/B17626.cs) |
+| 백준 | 1535 | [안녕](https://www.acmicpc.net/problem/1535) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1535.cs) |
+| 백준 | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B14728.cs) |
+| 백준 | 1106 | [호텔](https://www.acmicpc.net/problem/1106) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1106.cs) |
 | | | []() | []() |
