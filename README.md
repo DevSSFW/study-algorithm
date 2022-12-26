@@ -114,6 +114,11 @@
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 프로그래머스 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%84%B1%EA%B2%A9_%EC%9C%A0%ED%98%95_%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 92334 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%8B%A0%EA%B3%A0_%EA%B2%B0%EA%B3%BC_%EB%B0%9B%EA%B8%B0.java) |
+| 프로그래머스 | 87389 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80_1%EC%9D%B4_%EB%90%98%EB%8A%94_%EC%88%98_%EC%B0%BE%EA%B8%B0.java) |
+| 프로그래머스 | 136798 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98_%EB%AC%B8%EC%A0%9C.java) |
+| 프로그래머스 | 86491 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java) |
 | | | []() | []() |
 
 ## 윤호
