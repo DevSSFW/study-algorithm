@@ -130,4 +130,5 @@
 | 백준 | 1535 | [안녕](https://www.acmicpc.net/problem/1535) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1535.cs) |
 | 백준 | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B14728.cs) |
 | 백준 | 1106 | [호텔](https://www.acmicpc.net/problem/1106) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1106.cs) |
+| 백준 | 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2662.cs) |
 | | | []() | []() |
