@@ -99,6 +99,10 @@
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%88%AB%EC%9E%90%EC%9D%98_%EA%B0%9C%EC%88%98.java) |
+| 백준 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EB%B0%A9_%EB%B2%88%ED%98%B8.java) |
+| 백준 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%A0%95%EC%88%98_N%EA%B0%9C%EC%9D%98_%ED%95%A9.java) |
+| 백준 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%B5%9C%EC%86%8C_%EC%B5%9C%EB%8C%80.java) |
+| 백준 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%85%80%ED%94%84_%EB%84%98%EB%B2%84.java) |
 | | | []() | []() |
 
 ## 상윤
