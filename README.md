@@ -2,6 +2,9 @@
 코딩테스트 대비 문제 해결 레포지토리
 
 + push 하기 전에 `git pull origin main` 하고 push 하기 - 충돌 방지
++ 4주차 이후 5주차부터는 공통 1~2문항 정도 선정해서 풀이 진행 방식은 어떤가요? 선정 문항은 기업 기출이나 가장 코테에 핵심적인 부분.
++ 2023년도 새해 복 많이 받으세요.
+
 + 추가로 적고 싶은 마크 다운 있으면 작성 바랍니다.
 
 ## 1주차 (22.12.06 - 22.12.12)
@@ -93,12 +96,17 @@
 </details>
 
 ## 3주차 (22.12.20 - 22.12.26)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 3주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 백준 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%88%AB%EC%9E%90%EC%9D%98_%EA%B0%9C%EC%88%98.java) |
+| 백준 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EB%B0%A9_%EB%B2%88%ED%98%B8.java) |
+| 백준 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%A0%95%EC%88%98_N%EA%B0%9C%EC%9D%98_%ED%95%A9.java) |
+| 백준 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%B5%9C%EC%86%8C_%EC%B5%9C%EB%8C%80.java) |
+| 백준 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [정답코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%85%80%ED%94%84_%EB%84%98%EB%B2%84.java) |
 | | | []() | []() |
 
 ## 상윤
@@ -132,3 +140,23 @@
 | 백준 | 1106 | [호텔](https://www.acmicpc.net/problem/1106) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1106.cs) |
 | 백준 | 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/C%23/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2662.cs) |
 | | | []() | []() |
+</details>
+
+## 4주차 (22.12.27 - 23.01.02)
+> **각자 푼 문항 번호/제목/정답 코드 정리**
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
