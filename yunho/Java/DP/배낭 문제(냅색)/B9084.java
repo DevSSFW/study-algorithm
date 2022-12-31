@@ -21,7 +21,7 @@ public class B9084 { //µ¿Àü
 			for(int i = 1; i <= N; i++) coins[i] = Integer.parseInt(st.nextToken());
 			
 			int M = Integer.parseInt(br.readLine());
-			int[] dp = new int[M + 1];
+			int[] dp = new int[10001];
 			
 			for(int i = 1; i <= N; i++) {
 				dp[coins[i]]++;
