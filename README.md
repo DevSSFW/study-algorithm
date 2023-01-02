@@ -178,4 +178,5 @@
 | 백준 | 1535 | [안녕](https://www.acmicpc.net/problem/1535) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1535.java) |
 | 백준 | 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2629.java) |
 | 백준 | 3067 | [Coins](https://www.acmicpc.net/problem/3067) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B3067.java) |
+| 백준 | 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Greedy/B1343.java) |
 | | | []() | []() |
