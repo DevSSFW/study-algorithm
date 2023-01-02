@@ -148,6 +148,12 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%95%8C%ED%8C%8C%EB%B2%B3_%EA%B0%9C%EC%88%98.java) |
+| 백준 | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%B0%BE%EA%B8%B0.java) |
+| 백준 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/sort/%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
+| 백준 | 2751 | [수 정렬하기2](https://www.acmicpc.net/problem/2751) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/sort/%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.java) |
+| 백준 | 5598 | [카이사르 암호](https://www.acmicpc.net/problem/5598) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4_%EC%95%94%ED%98%B8.java) |
+| 백준 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
