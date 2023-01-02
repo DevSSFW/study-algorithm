@@ -156,6 +156,11 @@
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 프로그래머스 | 86051 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%97%86%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%8D%94%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 82612 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%B6%80%EC%A1%B1%ED%95%9C_%EA%B8%88%EC%95%A1_%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 81301 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%88%AB%EC%9E%90_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC_%EC%98%81%EB%8B%A8%EC%96%B4.java) |
+| 프로그래머스 | 77884 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%95%BD%EC%88%98%EC%9D%98_%EA%B0%9C%EC%88%98%EC%99%80_%EB%8D%A7%EC%85%88.java) |
+| 프로그래머스 | 147355 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%81%AC%EA%B8%B0%EA%B0%80_%EC%9E%91%EC%9D%80_%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.java) |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
