@@ -143,7 +143,8 @@
 </details>
 
 ## 4주차 (22.12.27 - 23.01.02)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 4주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -158,6 +159,11 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1712.java) |
+| 백준 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2292.java) |
+| 백준 | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1193.java) |
+| 백준 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2869.java) |
+| 백준 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10250.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -179,4 +185,27 @@
 | 백준 | 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2629.java) |
 | 백준 | 3067 | [Coins](https://www.acmicpc.net/problem/3067) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B3067.java) |
 | 백준 | 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Greedy/B1343.java) |
+</details>
+
+## 5주차 (23.01.03 - 23.01.09)
+> **각자 푼 문항 번호/제목/정답 코드 정리**
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
 | | | []() | []() |
