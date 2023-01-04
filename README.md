@@ -143,15 +143,27 @@
 </details>
 
 ## 4주차 (22.12.27 - 23.01.02)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 4주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%95%8C%ED%8C%8C%EB%B2%B3_%EA%B0%9C%EC%88%98.java) |
+| 백준 | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%B0%BE%EA%B8%B0.java) |
+| 백준 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/sort/%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
+| 백준 | 2751 | [수 정렬하기2](https://www.acmicpc.net/problem/2751) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/sort/%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.java) |
+| 백준 | 5598 | [카이사르 암호](https://www.acmicpc.net/problem/5598) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/array/%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4_%EC%95%94%ED%98%B8.java) |
+| 백준 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/mathematics/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1712.java) |
+| 백준 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2292.java) |
+| 백준 | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1193.java) |
+| 백준 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2869.java) |
+| 백준 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10250.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -165,3 +177,42 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 4781 | [사탕가게](https://www.acmicpc.net/problem/4781) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B4781.java) |
+| 백준 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B9084.java) |
+| 백준 | 1106 | [호텔](https://www.acmicpc.net/problem/1106) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1106.java) |
+| 백준 | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B14728.java) |
+| 백준 | 1535 | [안녕](https://www.acmicpc.net/problem/1535) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B1535.java) |
+| 백준 | 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B2629.java) |
+| 백준 | 3067 | [Coins](https://www.acmicpc.net/problem/3067) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/%EB%B0%B0%EB%82%AD%20%EB%AC%B8%EC%A0%9C(%EB%83%85%EC%83%89)/B3067.java) |
+| 백준 | 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Greedy/B1343.java) |
+</details>
+
+## 5주차 (23.01.03 - 23.01.09)
+> **각자 푼 문항 번호/제목/정답 코드 정리**
+
+## 5주차 공통 문항 (예시)
+| 사이트 | 문제 | 문제 제목 |
+| :--: | :--: | :--: |
+| 백준 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) |
+
++ 이런식으로 공통 문항 하나 정하고 각자 공통 문항 포함해서 주차별로 푸는 건 어떨까요?
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
