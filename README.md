@@ -205,7 +205,11 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 2275 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2275) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2275.java) |
+| 백준 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2839.java) |
+| 백준 | 10757 | [큰수 A+B](https://www.acmicpc.net/problem/10757) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10757.java) |
+| 백준 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1978.java) |
+| 백준 | 2581 | [소수](https://www.acmicpc.net/problem/2581) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2581.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
