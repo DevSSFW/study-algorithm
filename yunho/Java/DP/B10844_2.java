@@ -3,7 +3,7 @@ package Practice;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class B10844_2 { //쉬운 계단 수, 일의 자릿수부터 시작(Bottom_Up)
+public class B10844_2 { //쉬운 계단 수, 일의 자릿수부터 시작(Bottom-Up)
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
