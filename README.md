@@ -231,5 +231,5 @@
 | 백준 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2748.java) |
 | 백준 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B1912.java) |
 | 백준 | 10844 | [쉬운 계단 수(Top-Down)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_1.java) |
-| 백준 | 10844 | [쉬운 계단 수(Bottom_Up)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_2.java) |
+| 백준 | 10844 | [쉬운 계단 수(Bottom-Up)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_2.java) |
 | 백준 | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15655.java) |
