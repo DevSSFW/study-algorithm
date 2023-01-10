@@ -205,12 +205,21 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 2275 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2275) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2275.java) |
+| 백준 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2839.java) |
+| 백준 | 10757 | [큰수 A+B](https://www.acmicpc.net/problem/10757) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10757.java) |
+| 백준 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1978.java) |
+| 백준 | 2581 | [소수](https://www.acmicpc.net/problem/2581) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2581.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 프로그래머스 | 77484 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.java) |
+| 프로그래머스 | 76501 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%9D%8C%EC%96%91_%EB%8D%94%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 72410 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%8B%A0%EA%B7%9C_%EC%95%84%EC%9D%B4%EB%94%94_%EC%B6%94%EC%B2%9C.java) |
+| 프로그래머스 | 70128 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%82%B4%EC%A0%81.java) |
+| 프로그래머스 | 68935 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%82%BC%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.java) |
+| 프로그래머스 | 68644 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%91%90%EA%B0%9C_%EB%BD%91%EC%95%84%EC%84%9C_%EB%8D%94%ED%95%98%EA%B8%B0.java) |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
