@@ -188,7 +188,8 @@
 </details>
 
 ## 5주차 (23.01.03 - 23.01.09)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 4주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 5주차 공통 문항 (예시)
 | 사이트 | 문제 | 문제 제목 |
@@ -200,7 +201,10 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/string/%EC%95%84%EC%8A%A4%ED%82%A4_%EC%BD%94%EB%93%9C.java) |
+| 백준 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/string/%EC%88%AB%EC%9E%90%EC%9D%98_%ED%95%A9.java) |
+| 백준 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/basic/string/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B0%98%EB%B3%B5.java) |
+
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -233,3 +237,32 @@
 | 백준 | 10844 | [쉬운 계단 수(Top-Down)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_1.java) |
 | 백준 | 10844 | [쉬운 계단 수(Bottom-Up)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_2.java) |
 | 백준 | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15655.java) |
+</details>
+
+## 6주차 (23.01.10 - 23.01.16)
+> **각자 푼 문항 번호/제목/정답 코드 정리**
+
+## 6주차 공통 문항
+| 사이트 | 문제 | 문제 제목 |
+| :--: | :--: | :--: |
+|  |  | []() |
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| | | []() | []() |
