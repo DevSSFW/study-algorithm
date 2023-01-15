@@ -255,7 +255,11 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11653.java) |
+| 백준 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1929.java) |
+| 백준 | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_4948.java) |
+| 백준 | 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_9020.java) |
+| 백준 | 2738 | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2738.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
