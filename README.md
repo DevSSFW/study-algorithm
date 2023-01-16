@@ -255,12 +255,30 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11653.java) |
+| 백준 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1929.java) |
+| 백준 | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_4948.java) |
+| 백준 | 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_9020.java) |
+| 백준 | 2738 | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2738.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 프로그래머스 | 67256 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C_%EB%88%84%EB%A5%B4%EA%B8%B0.java) |
+| 프로그래머스 | 64061 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%81%AC%EB%A0%88%EC%9D%B8_%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0_%EA%B2%8C%EC%9E%84.java) |
+| 프로그래머스 | 42889 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java) |
+| 프로그래머스 | 42840 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java) |
+| 프로그래머스 | 42748 | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.java) |
+| 프로그래머스 | 42576 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.java) |
+| 프로그래머스 | 17682 | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.java) |
+| 프로그래머스 | 17681 | [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java) |
+| 프로그래머스 | 12982 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%98%88%EC%82%B0.java) |
+| 프로그래머스 | 12977 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%86%8C%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+| 프로그래머스 | 12969 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_%EB%B3%84%EC%B0%8D%EA%B8%B0.java) |
+| 프로그래머스 | 12954 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/x%EB%A7%8C%ED%81%BC_%EA%B0%84%EA%B2%A9%EC%9D%B4_%EC%9E%88%EB%8A%94_n%EA%B0%9C%EC%9D%98_%EC%88%AB%EC%9E%90.java) |
+| 프로그래머스 | 12950 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.java) |
+| 프로그래머스 | 12948 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.java) |
+| 프로그래머스 | 150370 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EC%88%98%EC%A7%91_%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.java) |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
