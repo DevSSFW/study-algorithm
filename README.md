@@ -7,6 +7,11 @@
 
 + 추가로 적고 싶은 마크 다운 있으면 작성 바랍니다.
 
+
+# 🏃‍♂️ step by step 👨‍💻
+<details>
+<summary>📝 1 month solution </summary>
+
 ## 1주차 (22.12.06 - 22.12.12)
 <details>
 <summary>📝 1주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
@@ -237,7 +242,11 @@
 | 백준 | 10844 | [쉬운 계단 수(Top-Down)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_1.java) |
 | 백준 | 10844 | [쉬운 계단 수(Bottom-Up)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_2.java) |
 | 백준 | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15655.java) |
+  </details>
+
 </details>
+
+***
 
 ## 6주차 (23.01.10 - 23.01.16)
 > **각자 푼 문항 번호/제목/정답 코드 정리**
@@ -250,7 +259,11 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%8A%A4%ED%83%9D.java) |
+| 백준 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%ED%81%90.java) |
+| 백준 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%97%90%EB%94%94%ED%84%B0.java) |
+| 백준 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EA%B4%84%ED%98%B8.java) |
+| 백준 | 10773 | [제로](https://www.acmicpc.net/problem/10773) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%A0%9C%EB%A1%9C.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
