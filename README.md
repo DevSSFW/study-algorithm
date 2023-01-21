@@ -249,7 +249,8 @@
 ***
 
 ## 6주차 (23.01.10 - 23.01.16)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 6주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 6주차 공통 문항
 | 사이트 | 문제 | 문제 제목 |
@@ -312,3 +313,28 @@
 | 백준 | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Recursion/B1991.java) |
 | 백준 | 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Math/B9020.java) |
 | 백준 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B9465.java) |
+</details>
+
+## 7주차 (23.01.17 - 23.01.23)
+<summary>📝 7주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 프로그래머스 | 42862 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.java) |
+| 프로그래머스 | 12947 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%95%98%EC%83%A4%EB%93%9C_%EC%88%98.java) |
+| 프로그래머스 | 12944 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%8F%89%EA%B7%A0_%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 12943 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%BD%9C%EB%9D%BC%EC%B8%A0_%EC%B6%94%EC%B8%A1.java) |
+| 프로그래머스 | 12940 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java) |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
