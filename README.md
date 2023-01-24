@@ -7,6 +7,11 @@
 
 + 추가로 적고 싶은 마크 다운 있으면 작성 바랍니다.
 
+
+# 🏃‍♂️ step by step 👨‍💻
+<details>
+<summary>📝 1 month solution </summary>
+
 ## 1주차 (22.12.06 - 22.12.12)
 <details>
 <summary>📝 1주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
@@ -237,10 +242,15 @@
 | 백준 | 10844 | [쉬운 계단 수(Top-Down)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_1.java) |
 | 백준 | 10844 | [쉬운 계단 수(Bottom-Up)](https://www.acmicpc.net/problem/10844) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B10844_2.java) |
 | 백준 | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B15655.java) |
+  </details>
+
 </details>
 
+***
+
 ## 6주차 (23.01.10 - 23.01.16)
-> **각자 푼 문항 번호/제목/정답 코드 정리**
+<details>
+<summary>📝 6주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 6주차 공통 문항
 | 사이트 | 문제 | 문제 제목 |
@@ -250,7 +260,11 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%8A%A4%ED%83%9D.java) |
+| 백준 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%ED%81%90.java) |
+| 백준 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%97%90%EB%94%94%ED%84%B0.java) |
+| 백준 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EA%B4%84%ED%98%B8.java) |
+| 백준 | 10773 | [제로](https://www.acmicpc.net/problem/10773) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%A0%9C%EB%A1%9C.java) |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
@@ -283,4 +297,49 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| | | []() | []() |
+| 백준 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2193.java) |
+| 백준 | 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B1010.java) |
+| 백준 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2839.java) |
+| 백준 | 2775 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2775.java) |
+| 백준 | 14501 | [퇴사(백트래킹)](https://www.acmicpc.net/problem/14501) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/B14501_1.java) |
+| 백준 | 14501 | [퇴사(DP)](https://www.acmicpc.net/problem/14501) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B14501_2.java) |
+| SW Expert Academy | 12052 | [부서진 타일](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXmwOSJaSNIDFARX) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/SW/SW12052.java) |
+| SW Expert Academy | 15758 | [무한 문자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYP5JmsqcngDFATW) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/SW/SW15758.java) |
+| SW Expert Academy | 1859 | [백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/SW/SW1859.java) |
+| 백준 | 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B9184.java) |
+| 백준 | 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B11054_2.java) |
+| 백준 | 2565 | [전깃줄](https://www.acmicpc.net/problem/2565) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2565.java) |
+| 백준 | 2407 | [조합](https://www.acmicpc.net/problem/2407) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Math/B2407.java) |
+| 백준 | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Recursion/B1991.java) |
+| 백준 | 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Math/B9020.java) |
+| 백준 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B9465.java) |
+</details>
+
+## 7주차 (23.01.17 - 23.01.23)
+<summary>📝 7주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 백준 | 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2566.java) |
+| 백준 | 2563 | [색종이](https://www.acmicpc.net/problem/2563) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2563.java) |
+| 백준 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2750.java) |
+| 백준 | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2587.java) |
+| 백준 | 25305 | [커트라인](https://www.acmicpc.net/problem/25305) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_25305.java) |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 프로그래머스 | 42862 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.java) |
+| 프로그래머스 | 12947 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%95%98%EC%83%A4%EB%93%9C_%EC%88%98.java) |
+| 프로그래머스 | 12944 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%ED%8F%89%EA%B7%A0_%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 12943 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%BD%9C%EB%9D%BC%EC%B8%A0_%EC%B6%94%EC%B8%A1.java) |
+| 프로그래머스 | 12940 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java) |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
