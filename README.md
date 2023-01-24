@@ -325,6 +325,11 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 2566 | [최댓값](https://www.acmicpc.net/problem/2566) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2566.java) |
+| 백준 | 2563 | [색종이](https://www.acmicpc.net/problem/2563) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2563.java) |
+| 백준 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2750.java) |
+| 백준 | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2587.java) |
+| 백준 | 25305 | [커트라인](https://www.acmicpc.net/problem/25305) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_25305.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
