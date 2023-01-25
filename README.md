@@ -321,6 +321,14 @@
 ## 동현
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| SW Expert Academy | 1204 | [최빈수 구하기](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/swea/%EC%B5%9C%EB%B9%88%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
+| 백준 | 9093 | [단어 뒤집기](https://www.acmicpc.net/problem/9093)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.java) |
+| 백준 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/baekjoon/intermediate/%EC%8A%A4%ED%83%9D_%EC%88%98%EC%97%B4.java) |
+| 프로그래머스 | 12918 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/programmers/lv1_2/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.java) |
+| 프로그래머스 | 12903 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/programmers/lv1_2/%EA%B0%80%EC%9A%B4%EB%8D%B0_%EA%B8%80%EC%9E%90_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.java) |
+| 프로그래머스 | 70128 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/programmers/lv1_2/%EB%82%B4%EC%A0%81.java) |
+| 프로그래머스 | 12982 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)  | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/donghyun/src/programmers/lv1_2/%EC%98%88%EC%82%B0.java) |
+|  |  |  |  |
 
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
