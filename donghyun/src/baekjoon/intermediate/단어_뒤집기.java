@@ -26,7 +26,7 @@ public class 단어_뒤집기 {
 
             for (char str : arr) {
                 if (str == ' ' || str == '\n') {
-                    while (!stack.empty()) {
+                    while (stack.isEmpty()) {
                         sb.append(stack.pop());
                     }
                     sb.append(" ");
