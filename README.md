@@ -359,7 +359,6 @@
 | 백준 | 13306 | [트리](https://www.acmicpc.net/problem/13306) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/UnionFind/B13306.java) |
 | 백준 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B11051.java) |
 | 백준 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B1699.java) |
-| 백준 | 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2133.java) |
 </details>
 
 ## 8주차 (23.01.24 - 23.01.30)
@@ -380,3 +379,6 @@
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2133.java) |
+| 백준 | 1793 | [타일링](https://www.acmicpc.net/problem/1793) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B1793.java) |
+| 백준 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Math/B1629.java) |
