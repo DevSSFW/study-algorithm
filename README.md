@@ -375,6 +375,13 @@
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 프로그래머스 | 12937 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%A7%9D%EC%88%98%EC%99%80_%ED%99%80%EC%88%98.java) |
+| 프로그래머스 | 12935 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%A0%9C%EC%9D%BC_%EC%9E%91%EC%9D%80_%EC%88%98_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 12934 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%A0%95%EC%88%98_%EC%A0%9C%EA%B3%B1%EA%B7%BC_%ED%8C%90%EB%B3%84.java) |
+| 프로그래머스 | 12933 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%A0%95%EC%88%98_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 12932 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+| 프로그래머스 | 154540 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv2/%EB%AC%B4%EC%9D%B8%EB%8F%84_%EC%97%AC%ED%96%89.java) |
+| 프로그래머스 | 154538 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv2/%EC%88%AB%EC%9E%90_%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
