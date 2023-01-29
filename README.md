@@ -371,6 +371,11 @@
 ## 상윤
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 백준 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2751.java) |
+| 백준 | 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10989.java) |
+| 백준 | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_2108.java) |
+| 백준 | 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1427.java) |
+| 백준 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11650.java) |
 
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
