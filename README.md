@@ -362,6 +362,7 @@
 </details>
 
 ## 8주차 (23.01.24 - 23.01.30)
+<details>
 <summary>📝 8주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
@@ -394,3 +395,28 @@
 | 백준 | 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B2133.java) |
 | 백준 | 1793 | [타일링](https://www.acmicpc.net/problem/1793) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/DP/B1793.java) |
 | 백준 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/yunho/Java/Math/B1629.java) |
+</details>
+
+## 9주차 (23.01.31 - 23.02.06)
+<summary>📝 9주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 프로그래머스 | 12931 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%9E%90%EB%A6%BF%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.java) |
+| 프로그래머스 | 12930 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%9D%B4%EC%83%81%ED%95%9C_%EB%AC%B8%EC%9E%90_%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+| 프로그래머스 | 12928 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.java) |
+| 프로그래머스 | 12926 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%8B%9C%EC%A0%80_%EC%95%94%ED%98%B8.java) |
+| 프로그래머스 | 12925 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84_%EC%A0%95%EC%88%98%EB%A1%9C_%EB%B0%94%EA%BE%B8%EA%B8%B0.java) |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
