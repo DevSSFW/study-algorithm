@@ -8,24 +8,38 @@ public class BabyGin {
     static int[] cards = new int[10];
     static int triplet;
     static int run;
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int T = Integer.parseInt(br.readLine());
 
         for (int test_case = 0; test_case < T; test_case++) {
-            card = Integer.parseInt(br.readLine());
+            card = Integer.parseInt(br.readLine()); //123324
 
             for (int i = 0; i < 6; i++) {
                 cards[(card % 10)]++;
                 card /= 10;
             }
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < 10; i++) { //triplet 여부 확인
                 if (cards[i] >= 3) {
                     cards[i] -= 3;
                     triplet++;
                     i--;
                 }
+                if (cards[i] >= 1 && cards[i + 1] >= 1 && cards[i + 2] >= 1) {
+                    cards[i]--;
+                    cards[i + 1]--;
+                    cards[i + 2]--;
+                    run++;
+                    i--;
+                }
+            }
+            if (run + triplet == 2) {
+                System.out.println("Baby Gin");
+
+            } else {
+                System.out.println("Lose");
             }
         }
     }
