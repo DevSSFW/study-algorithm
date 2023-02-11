@@ -398,6 +398,7 @@
 </details>
 
 ## 9주차 (23.01.31 - 23.02.06)
+<details>
 <summary>📝 9주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
 
 ## 동현
@@ -416,6 +417,31 @@
 | 프로그래머스 | 12928 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.java) |
 | 프로그래머스 | 12926 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%8B%9C%EC%A0%80_%EC%95%94%ED%98%B8.java) |
 | 프로그래머스 | 12925 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84_%EC%A0%95%EC%88%98%EB%A1%9C_%EB%B0%94%EA%BE%B8%EA%B8%B0.java) |
+
+## 윤호
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+</details>
+
+## 10주차 (23.02.07 - 23.02.13)
+<summary>📝 10주차 푼 문항 번호/제목/정답 코드 정리 📝</summary>
+
+## 동현
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+
+## 상윤
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 백준 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_11651.java) |
+| 백준 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_1181.java) |
+| 백준 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10814.java) |
+| 백준 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_18870.java) |
+| 백준 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/sangyoon/src/Baekjoon/B_10872.java) |
+
+## 경찬
+| 사이트 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
