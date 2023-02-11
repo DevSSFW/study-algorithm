@@ -442,6 +442,11 @@
 ## 경찬
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
+| 프로그래머스 | 12922 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95.java) |
+| 프로그래머스 | 12921 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.java) |
+| 프로그래머스 | 12919 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.java) |
+| 프로그래머스 | 12918 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.java) |
+| 프로그래머스 | 12917 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [정답 코드](https://github.com/DevSSFW/study-algorithm/blob/main/gyungchan/src/programmers/lv1/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java) |
 
 ## 윤호
 | 사이트 | 문제 | 문제 제목 | 정답 코드 |
