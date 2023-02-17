@@ -1,4 +1,4 @@
-package baekjoon.intermediate;
+package baekjoon.intermediate.data_structure;
 
 import java.io.*;
 import java.util.LinkedList;

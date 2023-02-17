@@ -1,4 +1,4 @@
-package baekjoon.intermediate;
+package baekjoon.intermediate.data_structure;
 
 /**
  * add, remove, contains
