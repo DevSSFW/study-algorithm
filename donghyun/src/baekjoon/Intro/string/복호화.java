@@ -1,27 +1,26 @@
 package baekjoon.Intro.string;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class 복호화 {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());
 
         for (int i = 0; i < T; i++) {
-            String s = br.readLine();
             int[] arr = new int[26];
             int max = 0;
             int count = 0;
             int answer = 0;
+
+            String s = br.readLine();
 
             for (int k = 0; k < s.length(); k++) {
                 if (s.charAt(k) >= 'a' && s.charAt(k) <= 'z') {
                     arr[s.charAt(k) - 'a']++;
                 }
             }
-
             for (int r : arr) {
                 if (max < r) {
                     max = r;
