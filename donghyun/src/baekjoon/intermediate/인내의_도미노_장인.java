@@ -83,15 +83,20 @@ public class 인내의_도미노_장인 {
             int my = p.y;
 
             for (int t = 1; t < currentH; ++t) {
+
                 mx += dx[dir];
                 my += dy[dir];
 
+                if (!(x > 0 && y > 0 && x <= N && y <= M)) {
+                    break;
+                }
                 if (domino[mx][my] == 'F') {
                     continue;
                 }
                 domino[mx][my] = 'F';
                 count++;
                 q.add(new Point(mx, my));
+
             }
         }
         return count;
@@ -100,14 +105,11 @@ public class 인내의_도미노_장인 {
     public static int getDir(char c) {
         if (c == 'E') {
             return 3; //동 / 우
-        }
-        else if (c == 'W') {
+        } else if (c == 'W') {
             return 2; //서 / 좌
-        }
-        else if (c == 'S') {
+        } else if (c == 'S') {
             return 1; // 남 / 하
-        }
-        else {
+        } else {
             return 0; // 북 / 상
         }
     }
