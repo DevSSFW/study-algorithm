@@ -1,4 +1,5 @@
 package baekjoon.intermediate.graph;
+
 import java.io.*;
 
 public class 망가진_키보드 {
@@ -35,7 +36,7 @@ public class 망가진_키보드 {
                     counter++;
                 }
             } else {
-                if(counter == m && visit[str.charAt( R + 1)] == 0){
+                if (counter == m && visit[str.charAt(R + 1)] == 0) {
                     L++;
                     visit[str.charAt(L)]--;
                     if (visit[str.charAt(L)] == 0) { //처음 확인된 문자 개수를 줄여 0이 되면
