@@ -1,7 +1,6 @@
 package baekjoon.intermediate.graph;
 
 import java.util.*;
-import java.io.*;
 
 public class 토마토 {
     static int N, M;
