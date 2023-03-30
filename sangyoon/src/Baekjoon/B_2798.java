@@ -28,20 +28,12 @@ public class B_2798 {
         int result = 0;
 
         for (int i = 0; i < N - 2; i++) {
-            if (arr[i] > M) continue;
-
             for (int j = i + 1; j < N - 1; j++) {
-                if (arr[i] + arr[j] > M) continue;
-
                 for (int k = j + 1; k < N; k++) {
                     int temp = arr[i] + arr[j] + arr[k];
 
-                    if (M == temp) {
-                        return temp;
-                    }
-
-                    if (result < temp && result < M) {
-                        result = temp;
+                    if (temp <= M) {
+                        result = Math.max(result, temp);
                     }
                 }
             }
