@@ -10,20 +10,21 @@ public class 하노이_탑_이동순서 { //장대는 3개, 원판 개수는 n�
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        StringBuilder sb = new StringBuilder();
         int n = sc.nextInt();
 
-        System.out.println((1 << n) - 1); // 최소 횟수는 2의 n승 -1 (일반항)
-        hanoi(1, 3, n);
+        sb.append((1 << n) - 1).append("\n"); // 최소 횟수는 2의 n승 -1 (일반항)
+        hanoi(1, 3, 2, n, sb);
+        System.out.println(sb);
     }
 
-    public static void hanoi(int a, int b, int n) { //시작 장대와 이동 완료할 장대, 원판 개수
+    public static void hanoi(int a, int b, int c, int n, StringBuilder sb) { //시작 장대와 이동 완료할 장대, 원판 개수
         // ex) 1에서 3으로, n은 3개
-        if (n == 1) { //원판 개수 1개면 바로 이동되므로 출력 - base case
-            System.out.println(a + " " + b);
+        if (n == 0) { //원판 개수 1개면 바로 이동되므로 출력 - base case
             return;
         }
-        hanoi(a, 6 - a - b, n - 1); // 장대 3개의 번호 (1+2+3) - a - b
-        System.out.println(a + " " + b); // ex 맨 처음은 1 3 출력됨
-        hanoi(6 - a - b, b, n - 1);
+        hanoi(a, c, b, n - 1, sb); // 장대 3개의 번호 (1+2+3) - a - b
+        sb.append(a).append(" ").append(b).append("\n"); // ex 맨 처음은 1 3 출력됨
+        hanoi(c, b, a, n - 1, sb);
     }
 }
