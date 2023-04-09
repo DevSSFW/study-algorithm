@@ -7,8 +7,6 @@ public class 부분합 {
 
     static int N, S;
     static int[] arr;
-    static int answer = Integer.MAX_VALUE;
-//    static int start, end;
 
     public static void main(String[] args) throws Exception {
         // 10000이하 자연수로 이루어진 길이 N의 수열
@@ -26,28 +24,27 @@ public class 부분합 {
         for (int i = 0; i < N; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
-
-        Arrays.sort(arr);
         System.out.println(twoPointer());
-
     }
 
     public static int twoPointer() {
+        int answer = Integer.MAX_VALUE;
         int start = 0;
         int end = 0;
-        int total = arr[0];
+        int sum = arr[0];
 
         while (start <= end && end < N) {
-            if (total >= S) {
-                total -= arr[start];
-                answer = Math.min(answer, arr[end] - arr[start] + 1);
+            if (sum >= S) { //합이 S보다 같거나 클 경우를 체크하여
+                answer = Math.min(answer, end - start + 1); //길이(답)를 업데이트하고
+                sum -= arr[start]; //합에서 start 포인터에 해당하는 값을 빼준다.
                 start++;
-                continue;
-            } else { //arr[end]+arr[start] < S
+            } else {
                 end++;
-                total += arr[end];
+                if (end < N) {
+                    sum += arr[end];
+                }
             }
         }
-        return answer;
+        return answer == Integer.MAX_VALUE ? 0 : answer;
     }
 }
