@@ -17,10 +17,10 @@ public class N과M_2 {
         }
 
         for (int i = start; i <= n; i++) {
-            if (visited[i]) continue;
+            if (visited[i]) continue; // 사용한 값은 중복되지 않음.
             visited[i] = true; //T,F F -> F,T,F -> F,F,T
             arr[depth] = i; // 1 -> 2 -> 3
-            solution(depth + 1, i + 1);
+            solution(depth + 1, i+1);
             visited[i] = false;
         }
     }
