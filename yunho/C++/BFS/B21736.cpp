@@ -6,7 +6,7 @@ using namespace std;
 char map[601][601];
 bool vis[601][601];
 
-int main() {
+int main() { //헌내기는 친구가 필요해
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 
