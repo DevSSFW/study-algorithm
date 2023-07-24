@@ -31,12 +31,13 @@ public class B11404_2 { //플로이드
 			if(map[start][end] > cost) map[start][end] = cost;
 		}
 		
+		//v : 환승 지점, s : 출발 지점, e : 도착 지점
 		for(int v = 1; v <= N; v++) {
 			for(int s = 1; s <= N; s++) {
-				if(s == v) continue; //시작 도시와 도착 도시가 같을 수 없음
+				if(s == v) continue;
 				
 				for(int e = 1; e <= N; e++) {
-					if(s == e || e == v) continue; //환승 하는 부분이 시작 도시나 도착 도시와 같을 수 없음
+					if(s == e || e == v) continue;
 					
 					//저장되어 있던 가장 최소값과 탐색하고 있는 값 중 작은 값 저장
 					map[s][e] = Math.min(map[s][e], map[s][v] + map[v][e]);
